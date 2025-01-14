@@ -31,13 +31,14 @@ The [Documentation](http://siggigue.github.io/pyfilterbank) is placed on github 
 If you want the latest features or need to compile for a specific architecture (e.g., Raspberry Pi ARM):
 
 1. Clone the repo:
-   ```sh
-   git clone https://github.com/SiggiGue/pyfilterbank.git
-   cd pyfilterbank
-
+  ```sh
+  git clone https://github.com/SiggiGue/pyfilterbank.git
+  cd pyfilterbank
+  ```
 
 2. Via `pip`:
-  ```pip install .```
+  ```pip install .
+  ```
 
 This will automatically build and install the sosfilt C extension for your platform.
 
